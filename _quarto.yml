@@ -8,7 +8,7 @@ branches:
     output-dir: "2502"         # change this to year and month of the course instance
 
 website:
-  title: "Course Title"
+  title: "My Course"
   sidebar:
     style: "floating"
     background: "#F4F6F6"
