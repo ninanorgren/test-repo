@@ -1,6 +1,6 @@
 ---
 title: "Course Syllabus"
-author: "John Doe"
+author: "Nina Norgren"
 date: today
 ---
 
